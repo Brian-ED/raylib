@@ -87,12 +87,12 @@ Some people ported raylib to other languages in the form of bindings or wrappers
 | [raylib-zig-bindings](https://github.com/L-Briand/raylib-zig-bindings)                   | **5.0**          | [Zig](https://ziglang.org)                                           | Zlib                 |
 | [hare-raylib](https://git.sr.ht/~evantj/hare-raylib)                                     | **auto**         | [Hare](https://harelang.org)                                         | Zlib                 |
 | [raylib-sunder](https://github.com/ashn-dot-dev/raylib-sunder)                           | **auto**         | [Sunder](https://github.com/ashn-dot-dev/sunder)                     | 0BSD                 |
-| [raylib-bqn](https://github.com/Brian-ED/raylib-bqn)                                     | **5.0**          | [BQN](https://mlochbaum.github.io/BQN)                               | MIT                  |
+| [raylib-bqn](https://github.com/Brian-ED/raylib-bqn)                                     | **5.5**          | [BQN](https://mlochbaum.github.io/BQN)                               | MIT                  |
 | [rayjs](https://github.com/mode777/rayjs)                                                | 4.6-dev          | [QuickJS](https://bellard.org/quickjs)                               | MIT                  |
 | [raylib-raku](https://github.com/vushu/raylib-raku)                                      | **auto**         | [Raku](https://www.raku.org)                                         | Artistic License 2.0 |
 | [Raylib.lean](https://github.com/KislyjKisel/Raylib.lean)                                | **5.5-dev**      | [Lean4](https://lean-lang.org)                                       | BSD-3-Clause         |
 | [raylib-cobol](https://codeberg.org/glowiak/raylib-cobol)                                | **auto**         | [COBOL](https://gnucobol.sourceforge.io)                             | Public domain        |
-| [raylib-apl](https://github.com/Brian-ED/raylib-apl)                                     | **5.0**          | [Dyalog APL](https://www.dyalog.com/)                                | MIT                  |
+| [raylib-apl](https://github.com/Brian-ED/raylib-apl)                                     | **5.5**          | [Dyalog APL](https://www.dyalog.com/)                                | MIT                  |
 | [raylib-jai](https://github.com/ahmedqarmout2/raylib-jai)                                | **5.5**          | [Jai](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)  | MIT                  |
 | [fnl-raylib](https://github.com/0riginaln0/fnl-raylib)                                   | **5.5**          | [Fennel](https://fennel-lang.org/)                                   | MIT                  |
 | [Rayua](https://github.com/uiua-lang/rayua)                                              | **5.5**          | [Uiua](https://www.uiua.org/)                                        | **???**              | 
@@ -104,7 +104,7 @@ These are utility wrappers for specific languages, they are not required to use 
 | ---------------------------------------------------- | :------------: | :------------------------------------------: | :-----: |
 | [raylib-cpp](https://github.com/robloach/raylib-cpp) | **5.5**        | [C++](https://en.wikipedia.org/wiki/C%2B%2B) | Zlib    |
 | [claylib](https://github.com/defun-games/claylib)    | 4.5            | [Common Lisp](https://common-lisp.net)       | Zlib    |
-| [rayed-bqn](https://github.com/Brian-ED/rayed-bqn)   | **5.0**        | [BQN](https://mlochbaum.github.io/BQN)       | MIT     |
+| [rayed-bqn](https://github.com/Brian-ED/rayed-bqn)   | **5.5**        | [BQN](https://mlochbaum.github.io/BQN)       | MIT     |
 | [DOOR](https://github.com/RealDoigt/DOOR)            | 4.0            | [D](https://dlang.org)                       | MIT     |
 | [Iris](https://github.com/Marcos-cat/iris)           | **5.5**        | [Uiua](https://www.uiua.org/)                | MIT     |
 
